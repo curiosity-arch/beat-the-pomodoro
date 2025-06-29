@@ -16,7 +16,7 @@ A minimalist Pomodoro Timer app with a live digital clock built using **HTML**, 
 
 ---
 
-**JavaScript Concepts Used**
+### JavaScript Concepts Used
 
 This project uses a few key JavaScript functions. Two of the most important are:
 
